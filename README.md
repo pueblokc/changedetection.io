@@ -321,3 +321,11 @@ changedetectionio.html_tools.elementpath_tostring: Copyright (c), 2018-2021, SIS
 Recognition of fantastic contributors to the project
 
 - Constantin Hong https://github.com/Constantin1489
+
+---
+
+## Fork Maintainer
+
+This fork is maintained by **[KCCS](https://kccsonline.com)** with custom web UI enhancements and monitoring integrations.
+
+*[kccsonline.com](https://kccsonline.com)*
